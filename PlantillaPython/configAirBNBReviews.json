@@ -1,0 +1,48 @@
+{
+    "preproceso":{
+        "Preprocesar?": "si",
+        "unique_category_threshold": 51,
+        "cat_num?": "no",
+        "categorial_features":[""],
+        "missing_values": "drop", 
+        "impute_strategy": "modeN",
+        "cols_imputar": ["Genre","Review","Positive or Negative"],
+        "cols_outliers": ["no"],
+        "scaling": "zscoreNO",
+        "text_process": "tf-idf",
+        "cols_concatenar":["no"],
+        "cols_eliminar": ["Genre"],
+        "normalize?": "si",
+        "normalize_vector":["minusculas","acentos","stopwords","caracEspno","lematizar"],
+        "sampling": "oversampling"
+    },
+    "kNN": {
+        "n_neighbors": [1, 3, 5],
+        "weights": ["uniform", "distance"],
+        "algorithm": ["auto"],
+        "leaf_size": [20, 30],
+        "p": [1, 2]
+    },
+    "decision_tree": {
+        "criterion": ["gini"],
+        "max_depth": [5, 10, 20, 30],
+        "min_samples_split": [2, 5, 10],
+        "min_samples_leaf": [1, 2, 4],
+        "max_features": ["sqrt", "log2"],
+        "splitter": ["best"]
+    },
+    "random_forest": {
+        "n_estimators": [50],
+        "criterion": ["entropy"],
+        "max_depth": [5, 10],
+        "min_samples_split": [2, 5, 10],
+        "min_samples_leaf": [1, 2, 4],
+        "max_features": ["sqrt", "log2"],
+        "bootstrap": [false]
+    },
+    "naive_bayes": {
+        "alpha": [0.00000001,0.0001,0.1, 0.25, 0.5, 0.75, 1.0, 2.0],
+        "fit_prior": [true, false]
+        }
+    
+}

@@ -1,0 +1,17 @@
+Params,f1_weighted,F1_Score,Accuracy,Recall
+"{'alpha': 0.75, 'fit_prior': False}",0.6653659252578377,nan,0.6633006030318939,nan
+"{'alpha': 0.5, 'fit_prior': False}",0.6649343757449496,nan,0.6564738576227953,nan
+"{'alpha': 1.0, 'fit_prior': False}",0.6640829142989302,nan,0.6692741668203552,nan
+"{'alpha': 0.25, 'fit_prior': False}",0.6594695010068163,nan,0.64542736121933,nan
+"{'alpha': 1e-08, 'fit_prior': False}",0.6570616477222538,nan,0.6424406130410297,nan
+"{'alpha': 0.0001, 'fit_prior': False}",0.6568820045499029,nan,0.642013960418172,nan
+"{'alpha': 0.1, 'fit_prior': False}",0.6562345278100535,nan,0.6402598441807034,nan
+"{'alpha': 2.0, 'fit_prior': False}",0.6416180321927829,nan,0.6764803513110047,nan
+"{'alpha': 1e-08, 'fit_prior': True}",0.6304318932056779,nan,0.6806994617026927,nan
+"{'alpha': 0.0001, 'fit_prior': True}",0.6269499973395772,nan,0.6793245934898359,nan
+"{'alpha': 0.1, 'fit_prior': True}",0.6199771409256994,nan,0.6765275985682416,nan
+"{'alpha': 0.25, 'fit_prior': True}",0.6163020506431283,nan,0.6755320008572838,nan
+"{'alpha': 0.5, 'fit_prior': True}",0.6093847182321117,nan,0.6727350396516201,nan
+"{'alpha': 0.75, 'fit_prior': True}",0.6033224031321269,nan,0.6704120120419818,nan
+"{'alpha': 1.0, 'fit_prior': True}",0.5992955336983057,nan,0.6693215714186012,nan
+"{'alpha': 2.0, 'fit_prior': True}",0.5800994346478169,nan,0.6606930579236314,nan
