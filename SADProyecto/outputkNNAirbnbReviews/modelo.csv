@@ -1,0 +1,25 @@
+Params,f1,F1_Score,Accuracy,Recall
+"{'algorithm': 'auto', 'leaf_size': 20, 'n_neighbors': 1, 'p': 2, 'weights': 'uniform'}",0.9732780644080125,0.9737190078191622,0.9737425404944586,0.9737425404944586
+"{'algorithm': 'auto', 'leaf_size': 20, 'n_neighbors': 1, 'p': 2, 'weights': 'distance'}",0.9732780644080125,0.9737190078191622,0.9737425404944586,0.9737425404944586
+"{'algorithm': 'auto', 'leaf_size': 30, 'n_neighbors': 1, 'p': 2, 'weights': 'uniform'}",0.9732780644080125,0.9737190078191622,0.9737425404944586,0.9737425404944586
+"{'algorithm': 'auto', 'leaf_size': 30, 'n_neighbors': 1, 'p': 2, 'weights': 'distance'}",0.9732780644080125,0.9737190078191622,0.9737425404944586,0.9737425404944586
+"{'algorithm': 'auto', 'leaf_size': 20, 'n_neighbors': 1, 'p': 1, 'weights': 'uniform'}",0.9729983622261363,0.9737043245591555,0.9737425404944586,0.9737425404944586
+"{'algorithm': 'auto', 'leaf_size': 20, 'n_neighbors': 1, 'p': 1, 'weights': 'distance'}",0.9729983622261363,0.9737043245591555,0.9737425404944586,0.9737425404944586
+"{'algorithm': 'auto', 'leaf_size': 30, 'n_neighbors': 1, 'p': 1, 'weights': 'uniform'}",0.9729983622261363,0.9737043245591555,0.9737425404944586,0.9737425404944586
+"{'algorithm': 'auto', 'leaf_size': 30, 'n_neighbors': 1, 'p': 1, 'weights': 'distance'}",0.9729983622261363,0.9737043245591555,0.9737425404944586,0.9737425404944586
+"{'algorithm': 'auto', 'leaf_size': 20, 'n_neighbors': 3, 'p': 1, 'weights': 'uniform'}",0.9673254281949933,0.9678006991573429,0.9678175618073317,0.9678175618073317
+"{'algorithm': 'auto', 'leaf_size': 20, 'n_neighbors': 3, 'p': 1, 'weights': 'distance'}",0.9673254281949933,0.9678006991573429,0.9678175618073317,0.9678175618073317
+"{'algorithm': 'auto', 'leaf_size': 30, 'n_neighbors': 3, 'p': 1, 'weights': 'uniform'}",0.9673254281949933,0.9678006991573429,0.9678175618073317,0.9678175618073317
+"{'algorithm': 'auto', 'leaf_size': 30, 'n_neighbors': 3, 'p': 1, 'weights': 'distance'}",0.9673254281949933,0.9678006991573429,0.9678175618073317,0.9678175618073317
+"{'algorithm': 'auto', 'leaf_size': 20, 'n_neighbors': 3, 'p': 2, 'weights': 'uniform'}",0.9644254858271729,0.9649489631806498,0.9649616368286444,0.9649616368286444
+"{'algorithm': 'auto', 'leaf_size': 20, 'n_neighbors': 3, 'p': 2, 'weights': 'distance'}",0.9644254858271729,0.9649489631806498,0.9649616368286444,0.9649616368286444
+"{'algorithm': 'auto', 'leaf_size': 30, 'n_neighbors': 3, 'p': 2, 'weights': 'uniform'}",0.9644254858271729,0.9649489631806498,0.9649616368286444,0.9649616368286444
+"{'algorithm': 'auto', 'leaf_size': 30, 'n_neighbors': 3, 'p': 2, 'weights': 'distance'}",0.9644254858271729,0.9649489631806498,0.9649616368286444,0.9649616368286444
+"{'algorithm': 'auto', 'leaf_size': 20, 'n_neighbors': 5, 'p': 1, 'weights': 'distance'}",0.961690250048459,0.9619758997405293,0.9620204603580562,0.9620204603580562
+"{'algorithm': 'auto', 'leaf_size': 30, 'n_neighbors': 5, 'p': 1, 'weights': 'distance'}",0.961690250048459,0.9619758997405293,0.9620204603580562,0.9620204603580562
+"{'algorithm': 'auto', 'leaf_size': 20, 'n_neighbors': 5, 'p': 2, 'weights': 'distance'}",0.9570537958773254,0.956018517987062,0.9561381074168797,0.9561381074168797
+"{'algorithm': 'auto', 'leaf_size': 30, 'n_neighbors': 5, 'p': 2, 'weights': 'distance'}",0.9570537958773254,0.956018517987062,0.9561381074168797,0.9561381074168797
+"{'algorithm': 'auto', 'leaf_size': 20, 'n_neighbors': 5, 'p': 2, 'weights': 'uniform'}",0.9482013715535069,0.9471964671297923,0.9473998294970162,0.9473998294970162
+"{'algorithm': 'auto', 'leaf_size': 30, 'n_neighbors': 5, 'p': 2, 'weights': 'uniform'}",0.9482013715535069,0.9471964671297923,0.9473998294970162,0.9473998294970162
+"{'algorithm': 'auto', 'leaf_size': 20, 'n_neighbors': 5, 'p': 1, 'weights': 'uniform'}",0.9464254033927672,0.9473674392037429,0.9474850809889173,0.9474850809889173
+"{'algorithm': 'auto', 'leaf_size': 30, 'n_neighbors': 5, 'p': 1, 'weights': 'uniform'}",0.9464254033927672,0.9473674392037429,0.9474850809889173,0.9474850809889173
